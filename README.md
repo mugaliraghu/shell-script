@@ -12,27 +12,27 @@ Shell scripting is used to automate tasks in Unix/Linux systems. A shell script 
 
 Writing a Basic Shell Script
 #!/bin/bash
-## My first script
-'''
+### My first script
+```t
 echo "Hello, World!"
-'''
+```
 ## To give execute permission
-'''
+```
 chmod +x script.sh
-'''
+```
 ## To run the script:
-'''
+```
 ./script.sh
 sh script.sh
-'''
+```
 ## Variables in Shell
-'''
+```
 name="Raghu"
 age=25
 
 echo "My name is $name and I am $age years old."
-'''
+```
 ## Output 
-'''
+```
 My name is Raghu and I am 25 years old
-'''
+```
