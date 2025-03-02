@@ -12,7 +12,7 @@ Shell scripting is used to automate tasks in Unix/Linux systems. A shell script 
 
 Writing a Basic Shell Script
 #!/bin/bash
-### My first script
+## My first script
 ```t
 echo "Hello, World!"
 ```
@@ -25,7 +25,7 @@ chmod +x script.sh
 ./script.sh
 sh script.sh
 ```
-### Variables in Shell
+## Variables in Shell
 ```
 name="Raghu"
 age=25
@@ -36,12 +36,12 @@ echo "My name is $name and I am $age years old."
 ```
 My name is Raghu and I am 25 years old
 ```
-### Taking User Input
+## Taking User Input
 ```
 read -p "Enter your name: " user_name
 echo "Hello, $user_name!"
 ```
-### Conditional Statements
+## Conditional Statements
 ```
 read -p "Enter your age: " age
 if [[ $age -ge 18 ]]; then
