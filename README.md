@@ -1,6 +1,7 @@
 ### shell-script
 # What is Kernel:
 ![image](https://github.com/user-attachments/assets/ca0831db-7793-4b4b-8b22-70d9d6496105)
+
 The kernel is the core component of the operating system that acts as a bridge between the hardware and software, managing system resources, controlling input/output operations, and providing essential services to applications.
 
 # What is Shell:
